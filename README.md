@@ -1,5 +1,5 @@
 # Video chat app
-A web app allows user to video chat with one-another using unique ids 
+A web app allows user to video chat with one another using unique ids 
 
 # Motivation
 # Build status
@@ -13,8 +13,6 @@ Built with:
 <img src="https://img.icons8.com/color/96/000000/nodejs.png" alt="nodejs"/>
 
 # Features
-- Google geolocation
-- Nasa Landsat images
 # Code Example
 ### Installation
 ```sh
